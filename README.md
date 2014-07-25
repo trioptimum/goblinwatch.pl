@@ -1,7 +1,7 @@
 goblinwatch.pl
 ==============
 
-Script to find solutions to the Goblinwatch door puzzle in Might and Magic VI.
+Script to brute-force solutions to the Goblinwatch door puzzle in Might and Magic VI.
 
     nausicaa:goblinwatch clc$ perl goblinwatch.pl
     B->E->H->J->D->K->O->G->SOLVED
